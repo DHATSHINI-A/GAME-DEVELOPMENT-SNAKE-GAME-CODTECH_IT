@@ -33,4 +33,4 @@ Overall, this Snake Game project effectively demonstrates essential concepts suc
 
 # OUTPUT 
 
-[snakegame.cpp](https://github.com/user-attachments/files/24692821/snakegame.cpp)
+<img width="254" height="532" alt="Image" src="https://github.com/user-attachments/assets/a9f6c292-3554-4893-9437-57932c027695" />
