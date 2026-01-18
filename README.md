@@ -29,3 +29,8 @@ The core game mechanics are implemented in the Logic() function. This function u
 The main game loop runs continuously until a game-over condition is met. The loop repeatedly calls the drawing, input, and logic functions while controlling the game speed using a delay mechanism. This ensures smooth gameplay and consistent motion across systems.
 
 Overall, this Snake Game project effectively demonstrates essential concepts such as game loops, real-time input handling, array-based data structures, conditional logic, and state management in C++. It serves as a strong introductory project for understanding the fundamentals of game development and interactive programming in a low-level environment.
+
+
+# OUTPUT 
+
+[snakegame.cpp](https://github.com/user-attachments/files/24692821/snakegame.cpp)
